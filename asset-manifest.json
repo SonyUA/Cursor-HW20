@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Cursor-HW20/static/css/main.f2cb9d59.css",
+    "main.js": "/Cursor-HW20/static/js/main.8daef2cc.js",
+    "static/media/4.jpg": "/Cursor-HW20/static/media/4.4d11f7cac4460e02da66.jpg",
+    "static/media/3.jpg": "/Cursor-HW20/static/media/3.bc35e3586061ae5841ab.jpg",
+    "static/media/5.jpg": "/Cursor-HW20/static/media/5.f745e7597c74b738b678.jpg",
+    "static/media/6.jpg": "/Cursor-HW20/static/media/6.3cb7774e03b26ac18328.jpg",
+    "static/media/2.webp": "/Cursor-HW20/static/media/2.d31c3f040adea9d2a71f.webp",
+    "static/media/7.jpg": "/Cursor-HW20/static/media/7.583d472ec21092fda11c.jpg",
+    "index.html": "/Cursor-HW20/index.html",
+    "main.f2cb9d59.css.map": "/Cursor-HW20/static/css/main.f2cb9d59.css.map",
+    "main.8daef2cc.js.map": "/Cursor-HW20/static/js/main.8daef2cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2cb9d59.css",
+    "static/js/main.8daef2cc.js"
+  ]
+}
