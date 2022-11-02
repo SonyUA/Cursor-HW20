@@ -8,11 +8,10 @@ const Main = () => {
         
         <main className="main">
             <Routes>
-                <Route index  element={<Home />} />
                 <Route path="publications" element={<Publication />} />
                 <Route path="photo" element={<Photo />} />
                 <Route path="contacts" element={<Contact />} />
-                
+                <Route index path="/"  element={<Home />} />
             </Routes>
         </main>
         
